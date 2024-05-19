@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T17:22:37.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ySLAvuTb7nLw2GSoeMSp" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T17:26:37.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="rGD2pe7h0ZyEfmOkJfPH" version="24.4.4" type="github">
   <diagram name="Page-1" id="AWNy1UqZiqIQ8jtxFmRg">
-    <mxGraphModel dx="933" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="785" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,6 +257,24 @@
         </mxCell>
         <mxCell id="5u4QWbrpTz6wm8rv1r5W-136" value="Rescue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="130" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5u4QWbrpTz6wm8rv1r5W-139" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#007FFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="920" as="sourcePoint" />
+            <mxPoint x="171" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5u4QWbrpTz6wm8rv1r5W-140" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79" y="950" as="sourcePoint" />
+            <mxPoint x="169" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5u4QWbrpTz6wm8rv1r5W-141" value="Koneksi Logikal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="171" y="904" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5u4QWbrpTz6wm8rv1r5W-142" value="Koneksi Fisikal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="171" y="934" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
