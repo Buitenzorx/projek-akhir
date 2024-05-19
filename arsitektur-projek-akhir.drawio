@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T17:26:37.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="rGD2pe7h0ZyEfmOkJfPH" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T17:27:52.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="nyHvzhHs3u0VPucnBDZV" version="24.4.4" type="github">
   <diagram name="Page-1" id="AWNy1UqZiqIQ8jtxFmRg">
-    <mxGraphModel dx="785" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,6 +275,9 @@
         </mxCell>
         <mxCell id="5u4QWbrpTz6wm8rv1r5W-142" value="Koneksi Fisikal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="171" y="934" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5u4QWbrpTz6wm8rv1r5W-143" value="Notification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="410.00000000000006" y="289.5" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
